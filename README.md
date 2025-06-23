@@ -1,2 +1,1 @@
-# Wavelet
-Code of WaveletNet for UOD 
+# WFDA: Wavelet-based Frequency Decomposition and Aggregation for Underwater Object Detect
